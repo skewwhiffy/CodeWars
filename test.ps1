@@ -1,0 +1,1 @@
+nodemon -e cs -x dotnet test .\src\Solutions.Tests\Solutions.Tests.csproj
